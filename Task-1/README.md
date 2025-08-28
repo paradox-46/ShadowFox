@@ -1,10 +1,13 @@
 Image Classification with CIFAR-10
+
 This project implements a Convolutional Neural Network (CNN) for image classification using the CIFAR-10 dataset. The model classifies images into 10 different categories with high accuracy.
 
 Project Overview
+
 The CIFAR-10 image classification system uses a deep learning approach with convolutional neural networks to accurately classify images into 10 categories. The solution includes data preprocessing, model architecture design, training, evaluation, and visualization of results.
 
 Features
+
 Data Preprocessing: Normalizes pixel values and prepares the CIFAR-10 dataset
 
 CNN Architecture: Implements a convolutional neural network with multiple layers
@@ -18,6 +21,7 @@ Visualization: Generates training history plots and prediction visualizations
 Model Saving: Saves the trained model for future use
 
 Requirements
+
 Python 3.7+
 
 TensorFlow 2.x
@@ -56,6 +60,7 @@ ship
 truck
 
 Model Architecture
+
 The CNN model consists of:
 
 Conv2D layer with 32 filters (3x3)
