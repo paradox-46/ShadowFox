@@ -1,4 +1,5 @@
 Car Price Prediction Project
+
 This project implements a machine learning solution to predict car prices based on various features such as make, model, year, mileage, and other relevant attributes.
 
 Project Overview
